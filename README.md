@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## walter group hackathon last year 
 
-you get a skelleton of an api you have to fill  
+you get a skelleton of an api you have to fill [fastapi](https://fastapi.tiangolo.com/tutorial/first-steps/)  
 the api is a POST call that sends you a list of offers  
 offers have a lot of attributes like: revenue, cost, time, origin, destination etc.  
 you also get a graph of the whole network with distances on each edge  
