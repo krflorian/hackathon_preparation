@@ -1,7 +1,5 @@
 # Logistic Hackthon Vorbereitung 
 
-start working in hill_climbing.ipynb
-
 ## get started 
 - create venv 
 ```shell 
